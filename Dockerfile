@@ -1,2 +1,2 @@
 FROM hello-world
-MAINTEINER core
+RUN echo hello
